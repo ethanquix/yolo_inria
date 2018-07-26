@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c3049450-2b27-44e1-bb9b-cfd88b1effd2" name="yolov1" url="http://nef-frontal.inria.fr">
+        <fileTransfer host="nef-frontal.inria.fr" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/dwyzlic/projects/yolov1" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
